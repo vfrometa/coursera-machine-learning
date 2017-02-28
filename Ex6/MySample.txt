@@ -1,0 +1,9 @@
+Good afternoon,
+ 
+These are the URLs of the claims scrubbing WS. The BusinessRules validations will be included as soon as the testing of this part is completed. Actually just the X12 validations are configured.
+ 
+DEV: http://sedidevlab02/WebServices/ClaimsScrubbing/ClaimsScrubbingService.asmx
+QA: http://sedidevlabqa/WebServices/ClaimsScrubbing/ClaimsScrubbingService.asmx
+ 
+Regards,
+Andres
